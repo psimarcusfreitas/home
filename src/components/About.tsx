@@ -31,7 +31,7 @@ const About = () => {
             Sobre
           </p>
           <h2 className="font-heading text-4xl md:text-5xl font-bold text-foreground">
-            Bruno Rhein
+            Marcus Freitas
           </h2>
           <p className="text-muted-foreground font-body text-lg">
             Atuando como psicólogo clínico há 14 anos

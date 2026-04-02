@@ -20,7 +20,7 @@ const Footer = () => {
           AGENDAR AGORA
         </a>
         <p className="text-muted-foreground/50 font-body text-xs pt-8">
-          © {new Date().getFullYear()} Bruno Rhein – Psicólogo. Todos os direitos reservados.
+          © {new Date().getFullYear()} Marcus Freitas – Psicólogo. Todos os direitos reservados.
         </p>
       </div>
     </footer>
