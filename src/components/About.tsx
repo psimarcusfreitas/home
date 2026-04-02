@@ -17,7 +17,7 @@ const About = () => {
           <div className="w-64 h-80 md:w-72 md:h-96 rounded-2xl overflow-hidden border-2 border-border">
             <img
               src={brunoPortrait}
-              alt="Bruno Rhein"
+              alt="Marcus Freitas"
               loading="lazy"
               width={800}
               height={1000}
