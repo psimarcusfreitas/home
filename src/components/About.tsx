@@ -17,7 +17,7 @@ const About = () => {
           <div className="w-64 h-80 md:w-72 md:h-96 rounded-2xl overflow-hidden border-2 border-border">
             <img
               src={brunoPortrait}
-              alt="Bruno Rhein"
+              alt="Marcus Freitas"
               loading="lazy"
               width={800}
               height={1000}
@@ -31,7 +31,7 @@ const About = () => {
             Sobre
           </p>
           <h2 className="font-heading text-4xl md:text-5xl font-bold text-foreground">
-            Bruno Rhein
+            Marcus Freitas
           </h2>
           <p className="text-muted-foreground font-body text-lg">
             Atuando como psicólogo clínico há 14 anos
