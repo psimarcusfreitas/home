@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="section-padding bg-card border-t border-border">
       <div className="max-w-7xl mx-auto text-center space-y-6">
         <h2 className="font-heading text-3xl font-bold text-foreground">
-          Comece sua jornada de transformação
+          Vamos construir um ambiente mais seguro juntos?
         </h2>
         <p className="text-muted-foreground font-body max-w-md mx-auto">
           Agende sua primeira sessão e dê o primeiro passo rumo ao seu bem-estar emocional.
