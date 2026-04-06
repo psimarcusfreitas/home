@@ -22,7 +22,7 @@ const Hero = () => {
             Especialista Terapia Cognitivo Comportamental com formação em Educação Sexual, Educação Emocional e Prevenção ao Abuso Sexual.
           </p>
           <a
-            href="https://wa.me/5519971655412"
+            href="https://wa.me/5521970729738"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 gradient-green text-primary-foreground font-body font-semibold px-8 py-4 md:px-10 md:py-5 rounded-full hover:opacity-90 transition-all hover:scale-105 active:scale-95 text-lg md:text-xl shadow-lg shadow-primary/20"

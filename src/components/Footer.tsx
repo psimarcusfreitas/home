@@ -10,7 +10,7 @@ const Footer = () => {
           Entre em contato para entender como podemos adaptar esses conteúdos para a sua realidade.
         </p>
         <a
-          href="https://wa.me/5519971655412"
+          href="https://wa.me/5521970729738"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3 gradient-green text-primary-foreground font-body font-semibold px-8 py-4 rounded-full hover:opacity-90 transition-all hover:scale-105 active:scale-95 text-lg shadow-lg shadow-primary/20"
