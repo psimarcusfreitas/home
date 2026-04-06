@@ -42,7 +42,7 @@ const FAQ = () => {
               value={`faq-${i}`}
               className="bg-card border border-border rounded-xl px-6 data-[state=open]:border-primary/40"
             >
-              <AccordionTrigger className="font-body font-medium text-foreground hover:no-underline py-5">
+              <AccordionTrigger className="font-body font-medium text-foreground hover:no-underline py-5 text-left">
                 {f.q}
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground font-body text-sm leading-relaxed pb-5">
