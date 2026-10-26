@@ -13,7 +13,7 @@ const About = () => {
           Quem sou eu?
         </h2>
         <p className="text-muted-foreground font-body text-lg leading-relaxed">
-          Sou psicólogo (CRP 06/225405) formado pela Universidade Federal Fluminense, Especialista em Terapia Cognitivo Comportamental e Master ESEPAS (Educação sexual, Educação Emocional e Prevenção ao Abuso Sexual) em formação, servidor público atuante na proteção social básica da assistência social. Meu trabalho é traduzir conhecimentos científicos complexos em uma linguagem acessível, lúdica para as crianças e prática para os adultos. Acredito que a informação qualificada é a maior ferramenta de proteção que podemos oferecer às novas gerações.
+          Sou psicólogo (CRP 06/225405) formado pela Universidade Federal Fluminense (UFF), servidor público atuando no Poder Judiciário do Estado do Rio de Janeiro (TJRJ). Sou Especialista em Terapia Cognitivo-Comportamental (TCC), capacitado em Técnicas de Entrevista Investigativa com Vítimas e Testemunhas pela Escola de Administração Judiciária (ESAJ-TJRJ) e em formação no Master ESEPAS (Educação Sexual, Educação Emocional e Prevenção ao Abuso Sexual). Com experiência prévia na proteção social básica da assistência social, meu trabalho é traduzir conhecimentos científicos complexos em uma linguagem acessível e lúdica para as crianças, e prática para os adultos. Acredito que a informação qualificada é a maior ferramenta de proteção e garantia de direitos que podemos oferecer às novas gerações.
         </p>
       </div>
     </section>
