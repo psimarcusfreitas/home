@@ -11,9 +11,6 @@ const Hero = () => {
             <span className="font-heading text-xl tracking-widest uppercase text-foreground/80">
               Psicólogo
             </span>
-            <span className="text-sm font-body font-medium tracking-wider uppercase text-primary">
-              em Campinas
-            </span>
           </div>
           <h1 className="font-heading text-5xl md:text-7xl font-bold text-foreground leading-tight">
             Marcus Freitas
