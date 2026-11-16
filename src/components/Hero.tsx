@@ -16,7 +16,7 @@ const Hero = () => {
             Marcus Freitas
           </h1>
           <p className="text-lg text-muted-foreground max-w-md font-body leading-relaxed">
-            Especialista Terapia Cognitivo Comportamental com formação em Educação Sexual, Educação Emocional e Prevenção ao Abuso Sexual.
+            Psicólogo do Tribunal de Justiça do RJ, Especialista Terapia Cognitivo Comportamental com formação em Educação Sexual, Educação Emocional e Prevenção ao Abuso Sexual.
           </p>
           <a
             href="https://wa.me/5521970729738"
